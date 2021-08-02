@@ -27,7 +27,7 @@ read_pdf function of camelot is used to extract the tables.
 
 eg-
 
-tables= camelot.read_pdf('foo.pdf')
+# tables= camelot.read_pdf('foo.pdf')
 
 You will find more examples here.
 
