@@ -8,17 +8,17 @@ for this tutorial, I have used Google Colab which easily accessable to all.
 Lets Start-
 we have to install some libraries on colab
 
-!pip install ghostscript
+# !pip install ghostscript
 
-!pip install camelot-py[cv]
+# !pip install camelot-py[cv]
 
-!pip install excalibur-py
+# !pip install excalibur-py
 
-!apt install ghostscript python3-tk
+# !apt install ghostscript python3-tk
 
-!pip install pdf2image
+# !pip install pdf2image
 
-!apt-get install poppler-utils 
+# !apt-get install poppler-utils 
 
 
 For showing the Pdf, I have used Pdf2image here.
